@@ -4,3 +4,5 @@ image:
 tasks:
   - name: Start Node.js
     command: node
+  - name: Start Python
+    command: python3
